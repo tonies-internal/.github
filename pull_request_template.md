@@ -3,6 +3,7 @@
 - [ ] Bug fix
 - [ ] New feature
 - [ ] BC Major Upgrade
+- [ ] Other
 
 ## How Has This Been Tested?
 
