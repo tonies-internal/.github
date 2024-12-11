@@ -2,7 +2,7 @@
 
 - [ ] Bug fix
 - [ ] New feature
-- [ ] Breaking change 
+- [ ] BC Major Upgrade
 
 ## How Has This Been Tested?
 
@@ -13,7 +13,8 @@
 **Test Configuration**:
 * BC Version: 
 * BC Environment:
-* BP Manager: 
+* BP Manager:
+* Key User:
 
 ## Checklist:
 
